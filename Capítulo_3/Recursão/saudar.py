@@ -12,7 +12,7 @@ def sauda2(nome):
 def tchau():
     print("ok, tchau!")
 
-sauda("maggie")
+sauda("Maggie")
 
 """
 Suponha que você chame sauda("maggie"). Primeiro, seu computador
